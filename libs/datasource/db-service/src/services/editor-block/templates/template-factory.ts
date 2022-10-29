@@ -40,7 +40,7 @@ const defaultTemplateList: Array<TemplateMeta> = [
 const TemplateFactory = {
     defaultTemplateList,
     generatePageTemplateByGroupKeys(props: TemplateMeta): Template {
-        const newTitle = props.name || 'Get Started with AFFiNE';
+        const newTitle = props.name || 'Get Started with Jhin';
         const keys: GroupTemplateKeys[] = props.groupKeys || [];
         const blankPage: Template = {
             type: 'page',

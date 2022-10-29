@@ -29,7 +29,7 @@ If you spot a problem, [search if an issue already exists](https://docs.github.c
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/toeverything/AFFiNE/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See our [Labels](https://github.com/toeverything/AFFiNE/labels) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
+Scan through our [existing issues](https://github.com/JhinBoard/jhin/issues) to find one that interests you. You can narrow down the search using `labels` as filters. See our [Labels](https://github.com/JhinBoard/jhin/labels) for more information. As a general rule, we don’t assign issues to anyone. If you find an issue to work on, you are welcome to open a PR with a fix.
 
 ### Make Changes
 
@@ -81,8 +81,8 @@ When you're finished with the changes, create a pull request, also known as a PR
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: The AFFiNE team thanks you :sparkles:.
+Congratulations :tada::tada: The Jhin team thanks you :sparkles:.
 
 Once your PR is merged, your contributions will be publicly visible on our GitHub.
 
-Now that you are part of the AFFiNE community, see how else you can join and help over at [Gitbook](https://docs.affine.pro/affine/)
+Now that you are part of the Jhin community, see how else you can join and help over at [Gitbook](https://docs.affine.pro/affine/)

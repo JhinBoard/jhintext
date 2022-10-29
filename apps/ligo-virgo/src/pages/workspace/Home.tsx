@@ -23,7 +23,7 @@ export function WorkspaceHome() {
                     workspaceId,
                     userInitialPageId,
                     TemplateFactory.generatePageTemplateByGroupKeys({
-                        name: '👋 Get Started with AFFiNE',
+                        name: '👋 Get Started with Jhin',
                         groupKeys: [
                             'getStartedGroup0',
                             'getStartedGroup1',
