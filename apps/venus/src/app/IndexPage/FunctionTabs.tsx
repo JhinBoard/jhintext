@@ -104,7 +104,7 @@ export const FunctionTabs = () => {
                         >
                             <AFFiNEImage
                                 src={ShapeImage}
-                                alt="AFFiNE Shape Your Page"
+                                alt="Jhin Shape Your Page"
                             />
                         </Box>
                     </Grid>
@@ -189,7 +189,7 @@ export const FunctionTabs = () => {
                         >
                             <AFFiNEImage
                                 src={TaskImage}
-                                alt="AFFiNE Plan Your Task"
+                                alt="Jhin Plan Your Task"
                             />
                         </Box>
                     </Grid>

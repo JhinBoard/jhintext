@@ -9,7 +9,7 @@ import Select from '@mui/joy/Select';
 import GitHubIcon from '@mui/icons-material/GitHub';
 // eslint-disable-next-line no-restricted-imports
 import { styled, useMediaQuery } from '@mui/material';
-import AFFiNETextLogo from './affine-text-logo.png';
+import LogoHere from './jhin-hero.png';
 import { HoverMenu } from './HoverMenu';
 import { MobileHeader } from './MobileHeader';
 
@@ -31,7 +31,7 @@ export const AFFiNEHeader = () => {
         <Container container spacing={2}>
             <Grid xs={6} sx={{ display: 'flex', alignItems: 'center' }}>
                 <StyledImage
-                    src={AFFiNETextLogo}
+                    src={LogoHere}
                     alt="affine"
                     onClick={() => navigate('/')}
                 />

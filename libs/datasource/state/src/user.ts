@@ -58,7 +58,7 @@ const _useUserAndSpace = () => {
     return { user, currentSpaceId, loading };
 };
 
-const BRAND_ID = 'AFFiNE';
+const BRAND_ID = 'Jhin';
 
 const _localTrigger = atom<boolean>(false);
 const _useUserAndSpacesForFreeLogin = () => {

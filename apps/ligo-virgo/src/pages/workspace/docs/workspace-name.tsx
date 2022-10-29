@@ -1,3 +1,4 @@
+// eslint-disable-next-line filename-rules/match
 import { PinIcon } from '@toeverything/components/icons';
 import { Input, styled } from '@toeverything/components/ui';
 import { services } from '@toeverything/datasource/db-service';
@@ -12,7 +13,7 @@ import {
     useEffect,
     useState,
 } from 'react';
-import { Logo } from './components/logo/Logo';
+import { Logo } from './components/logo';
 
 const WorkspaceContainer = styled('div')({
     display: 'flex',

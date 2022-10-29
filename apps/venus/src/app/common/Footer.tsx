@@ -383,7 +383,7 @@ export const AFFiNEFooter = ({
                     }}
                 >
                     <Typography sx={{ display: 'flex', color: '#888' }}>
-                        Copyright &copy; 2022 Toeverything
+                        Copyright &copy; 2022 JhinBoard
                     </Typography>
                 </Box>
             </Grid>

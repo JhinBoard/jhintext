@@ -172,7 +172,7 @@ module.exports = function (webpackConfig) {
         isProd &&
             !isE2E &&
             new HtmlWebpackPlugin({
-                title: 'AFFiNE - All In One Workos',
+                title: 'Jhin - All In One Workos',
                 favicon: path.resolve(
                     __dirname,
                     './src/assets/images/favicon.ico'

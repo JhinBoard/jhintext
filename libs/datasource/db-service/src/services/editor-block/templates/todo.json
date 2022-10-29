@@ -54,11 +54,11 @@
                         },
                         {
                             "type": "link",
-                            "url": "https://blog.affine.pro/",
+                            "url": "https://ciusji.gitbook.io/jhinboard/appendix/blogs",
                             "id": "link.qx4yhw81or54",
                             "children": [
                                 {
-                                    "text": "https://blog.affine.pro"
+                                    "text": "https://ciusji.gitbook.io/jhinboard/appendix/blogs"
                                 }
                             ]
                         },
@@ -82,15 +82,15 @@
                             "text": ""
                         },
                         {
-                            "text": "If you have any suggestions drop a post in our Reddit Channel："
+                            "text": "If you have any suggestions drop a post in our GitHub discussions："
                         },
                         {
                             "type": "link",
-                            "url": "https://www.reddit.com/r/Affine/",
+                            "url": "https://github.com/orgs/JhinBoard/discussions",
                             "id": "link.zeafc4ogfvrb",
                             "children": [
                                 {
-                                    "text": "https://www.reddit.com/r/Affine/"
+                                    "text": "https://github.com/orgs/JhinBoard/discussions"
                                 }
                             ]
                         },

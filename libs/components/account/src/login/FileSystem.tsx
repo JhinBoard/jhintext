@@ -18,7 +18,7 @@ const requestPermission = async (workspace: string) => {
     await cleanupWorkspace(workspace);
     // @ts-ignore
     const dirHandler = await window.showDirectoryPicker({
-        id: 'AFFiNE_' + workspace,
+        id: 'Jhin_' + workspace,
         mode: 'readwrite',
         startIn: 'documents',
     });

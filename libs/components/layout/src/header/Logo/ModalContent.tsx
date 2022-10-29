@@ -14,7 +14,7 @@ export const ModalContent = () => {
             <LeftContainer>
                 <LeftButtonContainer href="https://affine.pro" target="_blank">
                     <LeftLogoIcon />
-                    <LeftButtonText>Official Website AFFiNE.pro</LeftButtonText>
+                    <LeftButtonText>Official Website Jhin.pro</LeftButtonText>
                 </LeftButtonContainer>
                 <LeftButtonContainer
                     href="https://github.com/toeverything/AFFiNE"

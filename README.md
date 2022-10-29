@@ -6,16 +6,17 @@
 
 # Jhin
 
-Open-source and privacy-first. A free replacement for Notion & Miro.
-
 [![Node](https://img.shields.io/badge/node->=16.0-success)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/TypeScript-4.7-3178c6)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18-61dafb)](https://reactjs.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.62-dea584)](https://www.rust-lang.org/)
 
-## Getting Started
+Open-source and privacy-first. A free replacement for Notion & Miro.
 
-[![affine.pro](https://img.shields.io/static/v1?label=Try%20it%20Online&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAhpJREFUWEdjZEACtnl3MxgY/0YzMjAaMzAwcCLLUYH9/T/D/7MM/5mXHp6kPANmHiOI4Zx9Xfg3C+tKBob/zlSwiAgjGPey/vkdvneq5luwA+zy7+yhn+Vwv+89NFHFhREU7IyM/6YT4WyqK/n/nymT0Tb/1mFGBkYbqptOhIH/Gf4fYbTLv/2NBgmOCOvBSr6DHPCfWNW0UEe2A2x1uRlakiXBbtpx6jND+7KXZLmPbAdURokzeJjxwi31rrzH8OX7P5IdQbYDtnUoMXBzMMEt7Fj2imH7qU/0cQBy8MNsPHL5K0P13Of0cQB68MNsJScaSI4CHk4mhq3tSnCf3n36k0FZmh3Mn7L+DcPqgx9ICgWSHeBpxsdQESUGtgRk+eqDH+H8O09/MiR3P6atA1qTJRlsdLnhPgYlPOQQCW96wPDi3R+iHUFSCKAHP8wydEeREg0kOQA9+JOgwR1qL8CQEygC9jWp0UCSA+aVysIT3JqDHxgmr38DtlRCiIVhZZ0CPNhB6QDkEGIA0Q4gZAkuxxFyBNEOQA7ml+/+MIQ1PUAxG1kelAhB6YMYQLQDCPmQUAjhcgxRDiDWcEKOxOYIohyQGyjCEGIvANaPLfhhBiNHA6hmBBXNhABRDgCV/aBQAAFQpYMrn4PUgNTCACiXEMoNRDmAkC8okR8UDhjYRumAN8sHvGMCSkAD2jUDOWDAO6ewbDQQ3XMAy/oxKownQR0AAAAASUVORK5CYII=&message=%E2%86%92&style=for-the-badge)](https://affine.pro) No installation or registration required! Head over to our website and try it out now.
+![overview](./assets/overview.png)
+
+
+## Getting Started
 
 Want to deploy it yourself? Jhin can run just about anywhere. <br />
 
@@ -27,18 +28,6 @@ Want to deploy it yourself? Jhin can run just about anywhere. <br />
 
 There can be more than Notion and Miro. Jhin is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use, built with web technologies to ensure consistency and accessibility on Mac, Windows and Linux. We want your data always to be yours, without any sacrifice to your accessibility. Your data is always stored local first, with full support for real-time collaboration through peer-to-peer technology. We don't think "privacy-first" is a good excuse for not supporting modern web features.
 And when it comes to collaboration, these features are not just necessarily for teams - you can take and insert pictures on your phone, edit them from your desktop, and then share them with your collaborators.
-
-### Shape your page
-
-![546163d6-4c39-4128-ae7f-55d59bc3b76b](https://user-images.githubusercontent.com/79301703/182365611-b0ba3690-21c0-4d9b-bfbc-0bc15da05aeb.gif)
-
-### Plan your task
-
-![41a7b3a4-32f2-4d18-ac6b-57d1e1fda753](https://user-images.githubusercontent.com/79301703/182366553-1f6558a7-f17b-4611-ab95-aea3ec997154.gif)
-
-### Sort your knowledge
-
-![c9e1ff46-cec2-411b-b89d-6727a5e6f6c3](https://user-images.githubusercontent.com/79301703/182366602-08e44d28-a031-4097-9904-52fb9b1e9e17.gif)
 
 ## Contact Us
 

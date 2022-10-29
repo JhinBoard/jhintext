@@ -1,6 +1,6 @@
 import CloseIcon from '@mui/icons-material/Close';
 import { MuiModal, styled } from '@toeverything/components/ui';
-import affineTextLogo from './affine-text-logo.png';
+import JhinHero from './jhin-hero.png';
 import { ModalContent } from './ModalContent';
 
 interface ModalProps {
@@ -14,7 +14,7 @@ export const InfoModal = ({ open, onClose }: ModalProps) => {
             <Container>
                 <Header>
                     <HeaderLeft>
-                        <StyledImg src={affineTextLogo} />
+                        <StyledImg src={JhinHero} />
                         <LivedemoContainer>live demo</LivedemoContainer>
                     </HeaderLeft>
                     <CloseContainer onClick={() => onClose?.()}>
@@ -22,7 +22,7 @@ export const InfoModal = ({ open, onClose }: ModalProps) => {
                     </CloseContainer>
                 </Header>
                 <ModalContent />
-                <Footer>Copyright &copy; 2022 Toeverything</Footer>
+                <Footer>Copyright &copy; 2022 JhinBoard</Footer>
             </Container>
         </MuiModal>
     );
