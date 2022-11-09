@@ -20,7 +20,7 @@ Open-source and privacy-first. A free replacement for Notion & Miro.
 
 Want to deploy it yourself? Jhin can run just about anywhere. <br />
 
-[Jhin Documentation](https://docs.affine.pro/affine/) - More detailed documentation on how to use and develop with Jhin
+[Jhin Documentation](https://ciusji.gitbook.io/jhinboard/) - More detailed documentation on how to use and develop with Jhin
 
 ⚠️ Please note that Jhin is still under active development and is not yet ready for production use. ⚠️
 
@@ -46,7 +46,7 @@ That's why we are making Jhin. Some of the most important features are:
     -   Every document can be turned into a whiteboard
         -   An always good-to-read, structured docs-form page is the best for your notes, but a boundless doodle surface is better for collaboration and creativity.
 -   Atomic
-    -   The basic elements of AFFiNE are blocks, not pages.
+    -   The basic elements of Jhin are blocks, not pages.
         -   Blocks can be directly reused and synced between pages.
     -   Pages and blocks are searched and organized based on connected graphs, not tree-like paths.
     -   Dual-link and semantic search are fully supported.
@@ -54,7 +54,7 @@ That's why we are making Jhin. Some of the most important features are:
     -   Data is always stored locally by default
     -   CRDTs are applied so that peer-to-peer collaboration is possible.
 
-We appreciate the ideas of Monday, Airtable, and Notion databases. They have inspired us and shaped our product, helping us get it right when it comes to task management. But we also do things differently. We don't like doing things again and again. It's easy to set a todo with Markdown, but then why do you need to repeat and recreate data for a kanban or other databases. This is the power of AFFiNE. With AFFiNE, every block group has infinite views, for you to keep your single source of data, a single source of truth.
+We appreciate the ideas of Monday, Airtable, and Notion databases. They have inspired us and shaped our product, helping us get it right when it comes to task management. But we also do things differently. We don't like doing things again and again. It's easy to set a todo with Markdown, but then why do you need to repeat and recreate data for a kanban or other databases. This is the power of Jhin. With Jhin, every block group has infinite views, for you to keep your single source of data, a single source of truth.
 
 We would like to give special thanks to the innovators and pioneers who greatly inspired us:
 
@@ -62,7 +62,7 @@ We would like to give special thanks to the innovators and pioneers who greatly 
 -   Taskade & Monday -- brilliant multi-dimensional tables
 -   Height & Linear -- beautiful task management tool
 
-We would also like to give thanks to open-source projects that make affine possible:
+We would also like to give thanks to open-source projects that make Jhin possible:
 
 -   [Yjs](https://github.com/yjs/yjs) & [Yrs](https://github.com/y-crdt/y-crdt) -- Fundamental support of CRDTs for our implementation on state management and data sync.
 -   [React](https://github.com/facebook/react) -- View layer support and web GUI framework.
@@ -80,8 +80,6 @@ We use the following open source projects to help us build a better development 
 -   [tolgee](https://github.com/tolgee/tolgee-platform) -- Elegant i18n collaborative editing platform
 
 Thanks a lot to the community for providing such powerful and simple libraries, so that we can focus more on the implementation of the product logic, and we hope that in the future our projects will also provide a more easy-to-use knowledge base for everyone.
-
-[Some amazing companies](./docs/jobs/summary.md), including AFFiNE are looking for developers! Are you interested in helping build with AFFiNE and/or its partners? Check out some of the latest [jobs available](./docs/jobs/summary.md).
 
 
 ## License
