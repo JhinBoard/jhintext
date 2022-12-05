@@ -24,7 +24,7 @@ export function Login() {
             />
             <MuiGrid item xs={8}>
                 <Error
-                    title="Welcome to AFFiNE"
+                    title="Welcome to JhinBoard"
                     subTitle="blocks of knowledge to power your team"
                     action1Text="Login &nbsp; or &nbsp; Register"
                 />

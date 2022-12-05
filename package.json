@@ -1,8 +1,12 @@
 {
     "name": "jhin",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "license": "MIT",
-    "author": "bqjimaster@gmail.com",
+    "author":  {
+        "name": "ciusji",
+        "email": "bqjimaster@gmail.com",
+        "url": "https://github.com/ciusji"
+    },
     "scripts": {
         "e2e": "env-cmd -f .github/env/.env.e2e nx e2e ligo-virgo-e2e --watch",
         "e2e:ci": "env-cmd -f .github/env/.env.e2e nx e2e ligo-virgo-e2e --prod",
