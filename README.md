@@ -13,7 +13,7 @@
 
 Open-source and privacy-first. A free replacement for Notion & Miro.
 
-![overview](https://raw.githubusercontent.com/JhinBoard/jhin/main/assets/jhin-overview.jpg)
+![overview](https://raw.githubusercontent.com/JhinBoard/jhin/main/assets/overview.png)
 
 
 ## Getting Started
