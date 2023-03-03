@@ -87,3 +87,6 @@ Thanks a lot to the community for providing such powerful and simple libraries, 
 Jhin is distributed under the terms of MIT license.
 
 See [LICENSE](https://raw.githubusercontent.com/JhinBoard/jhin/main/LICENSE) for details.
+
+<img src="https://raw.githubusercontent.com/GuinsooLab/glab/main/src/images/guinsoolab-group.svg" width="120" alt="license" />
+
