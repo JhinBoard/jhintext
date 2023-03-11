@@ -1,62 +1,20 @@
 import GitHubIcon from '@mui/icons-material/GitHub';
 import { LogoIcon } from '@toeverything/components/icons';
 
-import RedditIcon from '@mui/icons-material/Reddit';
-import TelegramIcon from '@mui/icons-material/Telegram';
-import TwitterIcon from '@mui/icons-material/Twitter';
-import { DiscordIcon } from './DiscordIcon';
-
 import { styled } from '@toeverything/components/ui';
 
 export const ModalContent = () => {
     return (
         <Container>
             <LeftContainer>
-                <LeftButtonContainer href="https://affine.pro" target="_blank">
+                <LeftButtonContainer
+                    href="https://github.com/JhinBoard"
+                    target="_blank"
+                >
                     <LeftLogoIcon />
                     <LeftButtonText>Official Website Jhin.pro</LeftButtonText>
                 </LeftButtonContainer>
-                <LeftButtonContainer
-                    href="https://github.com/toeverything/AFFiNE"
-                    target="_blank"
-                >
-                    <LeftGithubIcon />
-                    <LeftButtonText>Check Our Docs Open Source</LeftButtonText>
-                </LeftButtonContainer>
             </LeftContainer>
-            <RightContainer>
-                <RightTitle>
-                    <div>Get in touch!</div>
-                    <div>Join our community.</div>
-                </RightTitle>
-
-                <Button
-                    href="https://github.com/toeverything/AFFiNE"
-                    target="_blank"
-                >
-                    <GitHubIcon />
-                    <ButtonText>Github</ButtonText>
-                </Button>
-                <Button href="https://www.reddit.com/r/Affine/" target="_blank">
-                    <RedditIcon />
-                    <ButtonText>Reddit</ButtonText>
-                </Button>
-                <Button
-                    href="https://twitter.com/AffineOfficial"
-                    target="_blank"
-                >
-                    <TwitterIcon />
-                    <ButtonText>Twitter</ButtonText>
-                </Button>
-                <Button href="https://t.me/affineworkos" target="_blank">
-                    <TelegramIcon />
-                    <ButtonText>Telegram</ButtonText>
-                </Button>
-                <Button href="https://discord.gg/Arn7TqJBvG" target="_blank">
-                    <DiscordIcon />
-                    <ButtonText>Discord</ButtonText>
-                </Button>
-            </RightContainer>
         </Container>
     );
 };
@@ -150,7 +108,7 @@ const LeftButtonText = styled('span')({
     color: '#000',
     fontSize: '24px',
     lineHeight: '36px',
-    width: '180px',
+    // width: '180px',
     marginLeft: '40px',
     cursor: 'pointer',
 });

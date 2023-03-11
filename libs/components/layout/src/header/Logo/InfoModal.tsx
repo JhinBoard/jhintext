@@ -9,6 +9,7 @@ interface ModalProps {
 }
 
 export const InfoModal = ({ open, onClose }: ModalProps) => {
+    const currentYear = new Date().getFullYear();
     return (
         <MuiModal open={open} onClose={onClose}>
             <Container>
@@ -22,7 +23,7 @@ export const InfoModal = ({ open, onClose }: ModalProps) => {
                     </CloseContainer>
                 </Header>
                 <ModalContent />
-                <Footer>Copyright &copy; 2022 JhinBoard</Footer>
+                <Footer>Copyright &copy; 2022-{currentYear} JhinBoard</Footer>
             </Container>
         </MuiModal>
     );

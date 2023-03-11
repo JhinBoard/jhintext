@@ -6,7 +6,7 @@ import {
     MuiTooltip as Tooltip,
     muiTooltipClasses,
     styled,
-    type MuiTooltipProps,
+    MuiTooltipProps,
 } from '@toeverything/components/ui';
 import {
     getRelativeUrlForInternalPageUrl,
@@ -430,7 +430,7 @@ export const LinkModal = memo((props: LinkModalProps) => {
                     <input
                         className={styles('linkModalContainerInput')}
                         onKeyDown={handle_key_down}
-                        placeholder="Paste link url, like https://affine.pro"
+                        placeholder="Paste link url, like https://github.com/JhinBoard"
                         autoComplete="off"
                         ref={inputEl}
                     />

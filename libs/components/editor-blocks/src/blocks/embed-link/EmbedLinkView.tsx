@@ -26,7 +26,7 @@ export const EmbedLinkView = (props: EmbedLinkView) => {
     });
 
     const onEmbedLinkUrlChange = async (link: string) => {
-        const DEMO_URL = 'https://affine.pro/';
+        const DEMO_URL = 'https://affine.pro';
         const value = link ? link : DEMO_URL;
         setEmbedLinkUrl(value);
         block.setProperty('embedLink', { value: value, name: 'embedLink' });
