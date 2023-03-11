@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/JhinBoard/jhin/main/assets/jhin.svg" width=120 alt="logo" />
+    <img src="https://raw.githubusercontent.com/JhinBoard/jhin/main/assets/jhin.svg" width=100 alt="logo" />
     <br />
     <small>The Next-Gen Collaborative Knowledge Base</small>
 </div>
